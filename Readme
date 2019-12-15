@@ -1,0 +1,8 @@
+on linux
+
+Compile:
+到此目錄下 make
+Run:
+到此目錄下 ./client.out
+Remove:
+到此目錄下 make clean
