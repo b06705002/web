@@ -3,6 +3,7 @@ on linux
 Compile:
 到此目錄下 make
 Run:
-到此目錄下 ./client.out
-Remove:
-到此目錄下 make clean
+到此目錄下 ./server2.out
+到此目錄下 ./client2.out
+
+因為路徑問題,編譯後可能有誤,直接Run就好
